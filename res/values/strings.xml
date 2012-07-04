@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_item_search_action_hint">Your Search Query</string>
+    <string name="menu_item_search_action_menu_text">Search</string>
+</resources>
